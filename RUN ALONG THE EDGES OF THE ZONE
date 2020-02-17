@@ -1,0 +1,9 @@
+print("start");
+def fun():
+    print('run along the edges of the zone')
+a=20,8;
+def go():
+    print(a);
+fun();
+go();
+print(a);
